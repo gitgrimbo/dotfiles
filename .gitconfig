@@ -6,5 +6,6 @@
 
 [core]
 	editor = vim
+	pager = 
 [credential]
 	helper = store
